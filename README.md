@@ -1,5 +1,7 @@
 # Noonsatae_Spec
 
+### TBD <!--아직 가야할 길이 XXXXXXXXX나게 멂-->
+
 ## index
 
 - Abstract
