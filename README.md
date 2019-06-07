@@ -1,6 +1,6 @@
 # Noonsatae_Spec
 
-### TBD <!--아직 가야할 길이 XXXXXXXXX나게 멂-->
+### TBD 아직 가야할 길이 XXXXXXXXX나게 멂멂멂멂멂멂 와우! 
 
 ## index
 
